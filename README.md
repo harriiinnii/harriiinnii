@@ -10,9 +10,7 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">Stepping into the world of cybersecurity with curiosity and passion. Looking forward to learning, exploring challenges, and building skills to make the digital space safer.</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=harriiinnii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
